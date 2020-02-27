@@ -37,3 +37,4 @@ class Test(models.Model):
     "Generated Model"
     name = models.BigIntegerField()
     fhfhg = models.BigIntegerField(null=True, blank=True,)
+    vhb = models.DateField(null=True, blank=True,)
